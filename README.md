@@ -1,3 +1,3 @@
 # test-one
 Explorando GitHub
-Sandrita
+ by Sandrita  :)
