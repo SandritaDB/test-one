@@ -9,4 +9,4 @@ Cuentanos que cambios hiciste
 # ¿Cómo puedo probar los cambios?
 
 En qué URL puedo ver el cambio.
-Explica paso a paso la forma correcta de verificar la actualización que realizaste.
+Explica paso a paso la forma correcta de verificar la actualización que realizaste...
